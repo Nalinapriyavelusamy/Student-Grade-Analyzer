@@ -17,7 +17,7 @@
 
 
 📄 STUDENT REPORT
-Name: Priya
+Name: Nalinapriya
 Total Marks: 449 / 500
 Average: 89.8
 Grade: A
